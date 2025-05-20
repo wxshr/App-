@@ -5,20 +5,19 @@
 ---
 
 ## 项目结构
-
 iOS-Study/
-├── Demo/                          # 基础示例项目
-│   ├── Person.[h/m]               # 人员基类（属性、方法、类别扩展）
-│   ├── Student.[h/m]              # 学生子类（任务管理、块操作）
-│   ├── TaskManager.[h/m]          # 任务调度器（协议与委托）
-│   └── main.m                     # 程序入口
-├── TaskSystem/                    # 任务管理系统项目
-│   ├── TaskHandler.[h/m]          # 任务处理器（数据源实现）
-│   ├── TaskProtocol.h             # 协议定义
-│   ├── TaskProcessor.[h/m]        # 任务处理器（状态管理）
-│   └── main.m                     # 命令行交互入口
-└── Docs/                          # 学习文档
-    └── iOS应用开发与逆向工程指南.md
+├── Demo/ # 基础示例项目
+│ ├── Person.[h/m] # 人员基类
+│ ├── Student.[h/m] # 学生子类（任务管理、块操作）
+│ ├── TaskManager.[h/m] # 任务调度器（协议与委托）
+│ └── main.m # 程序入口
+├── TaskSystem/ # 任务管理系统项目
+│ ├── TaskHandler.[h/m] # 任务处理器（数据源实现）
+│ ├── TaskProtocol.h # 协议定义
+│ ├── TaskProcessor.[h/m] # 任务处理器（状态管理）
+│ └── main.m # 命令行交互入口
+└── Docs/ # 学习文档
+└── iOS应用开发与逆向工程指南.md
 ---
 
 ## 项目说明
